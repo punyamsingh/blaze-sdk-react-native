@@ -1,6 +1,6 @@
 {
   "name": "blaze-sdk-react-native-example",
-  "version": "0.0.1",
+  "version": "0.0.21-v3",
   "private": true,
   "scripts": {
     "android": "react-native run-android",

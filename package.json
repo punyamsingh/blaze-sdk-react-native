@@ -1,6 +1,6 @@
 {
   "name": "@punyamsingh/blaze-beta-sdk-react-native",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "SDK for integrating Breeze 1CCO into your React Native Application",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
