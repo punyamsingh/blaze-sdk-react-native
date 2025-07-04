@@ -11,7 +11,7 @@ Follow the below steps to integrate Blaze SDK into your React Native application
 In your react native project directory, run the following command:
 
 ```bash
-npm install @juspay/blaze-sdk-react-native
+npm install @punyamsingh/blaze-sdk-react-native
 ```
 
 ### Step 2: Initialize the SDK
